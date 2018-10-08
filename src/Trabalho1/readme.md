@@ -8,3 +8,6 @@ Simular de forma resumida um sistema de patentes. Neste caso não importa a pate
 - Subiu recentemente: o usuário subiu de nível na última partida?
 - Venceu: a partida foi vencida? (Desconsidera empate)
 - Upar é o objetivo
+
+## Fluxograma
+<img src="https://snag.gy/btmoLx.jpg"/>
